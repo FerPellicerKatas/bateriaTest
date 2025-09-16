@@ -1,0 +1,14 @@
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/test1.dir
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/test2.dir
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/test3.dir
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/test4.dir
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/test5.dir
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/test6.dir
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/test7.dir
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/test8.dir
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/test9.dir
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/test10.dir
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/test11.dir
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/test12.dir
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/edit_cache.dir
+/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/CMakeFiles/rebuild_cache.dir

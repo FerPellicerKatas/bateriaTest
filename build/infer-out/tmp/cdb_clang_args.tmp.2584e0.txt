@@ -1,0 +1,1 @@
+   -std=gnu++17 -o CMakeFiles/test9.dir/test9.cpp.o -c "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test9.cpp"

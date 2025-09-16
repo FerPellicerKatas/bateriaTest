@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/test1.dir/test1.cpp.o -c \"/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test1.cpp\"",
+  "file": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test1.cpp",
+  "output": "CMakeFiles/test1.dir/test1.cpp.o"
+},
+{
+  "directory": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/test2.dir/test2.cpp.o -c \"/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test2.cpp\"",
+  "file": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test2.cpp",
+  "output": "CMakeFiles/test2.dir/test2.cpp.o"
+},
+{
+  "directory": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/test3.dir/test3.cpp.o -c \"/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test3.cpp\"",
+  "file": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test3.cpp",
+  "output": "CMakeFiles/test3.dir/test3.cpp.o"
+},
+{
+  "directory": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/test4.dir/test4.cpp.o -c \"/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test4.cpp\"",
+  "file": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test4.cpp",
+  "output": "CMakeFiles/test4.dir/test4.cpp.o"
+},
+{
+  "directory": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/test5.dir/test5.cpp.o -c \"/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test5.cpp\"",
+  "file": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test5.cpp",
+  "output": "CMakeFiles/test5.dir/test5.cpp.o"
+},
+{
+  "directory": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/test6.dir/test6.cpp.o -c \"/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test6.cpp\"",
+  "file": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test6.cpp",
+  "output": "CMakeFiles/test6.dir/test6.cpp.o"
+},
+{
+  "directory": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/test7.dir/test7.cpp.o -c \"/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test7.cpp\"",
+  "file": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test7.cpp",
+  "output": "CMakeFiles/test7.dir/test7.cpp.o"
+},
+{
+  "directory": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/test8.dir/test8.cpp.o -c \"/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test8.cpp\"",
+  "file": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test8.cpp",
+  "output": "CMakeFiles/test8.dir/test8.cpp.o"
+},
+{
+  "directory": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/test9.dir/test9.cpp.o -c \"/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test9.cpp\"",
+  "file": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test9.cpp",
+  "output": "CMakeFiles/test9.dir/test9.cpp.o"
+},
+{
+  "directory": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/test10.dir/test10.cpp.o -c \"/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test10.cpp\"",
+  "file": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test10.cpp",
+  "output": "CMakeFiles/test10.dir/test10.cpp.o"
+},
+{
+  "directory": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/test11.dir/test11.cpp.o -c \"/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test11.cpp\"",
+  "file": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test11.cpp",
+  "output": "CMakeFiles/test11.dir/test11.cpp.o"
+},
+{
+  "directory": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/test12.dir/test12.cpp.o -c \"/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test12.cpp\"",
+  "file": "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test12.cpp",
+  "output": "CMakeFiles/test12.dir/test12.cpp.o"
+}
+]

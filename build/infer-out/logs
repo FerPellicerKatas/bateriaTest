@@ -1,0 +1,311 @@
+[17039][      debug] Loading models took 21.473ms
+[17040][      debug] Sqlite write daemon: starting up
+[17040][      debug] Sqlite write daemon: set up complete, waiting for connections
+[17039][environment] CWD = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17039][environment] No .inferconfig file found
+[17039][environment] Project root = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17039][environment] INFER_ARGS =   @/tmp/args.tmp.da5418
+[17039][environment] command line arguments:   /opt/infer-linux64-v1.1.0/bin/infer run
+[17039][environment]                           --compilation-database compile_commands.json
+[17039][environment] Available memory at startup: 7408 MB
+[17039][environment] Active checkers: self-in-block (C/C++/ObjC), starvation (C/C++/ObjC, Java), uninit (C/C++/ObjC), siof (C/C++/ObjC), dotnet-resource-leak (C#/.Net), racerd (C/C++/ObjC, Java), liveness (C/C++/ObjC), inefficient-keyset-iterator (Java), fragment-retains-view (Java), biabduction (C/C++/ObjC, Java, C#/.Net)
+[17039][environment] Scheduler: file
+[17039][environment] Cores used: 6
+[17039][environment] Infer version v1.1.0
+[17039][environment] Copyright 2009 - present Facebook. All Rights Reserved.
+[17039][environment] 
+[17039][   progress] Capturing using compilation database...
+[17039][      debug] parsing compilation database from /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/compile_commands.json
+[17039][      debug] created database with 12 entries
+[17039][      debug] Starting linting, translating 12 files
+[17039][      debug] 
+[17039][   progress] Starting linting, translating 12 files
+[17039][   progress] 
+
+
+
+
+
+
+[17047][environment] CWD = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17047][environment] No .inferconfig file found
+[17047][environment] Project root = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17047][environment] INFER_ARGS =   @/tmp/args.tmp.a75289
+[17047][environment] command line arguments:   /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/wrappers/clang++
+[17047][environment]                           @/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/infer-out/tmp/cdb_clang_args.tmp.43c0b2.txt
+[17047][environment]                           -fsyntax-only
+[17047][environment] Available memory at startup: 7265 MB
+[17047][environment] Active checkers: self-in-block (C/C++/ObjC), starvation (C/C++/ObjC, Java), uninit (C/C++/ObjC), siof (C/C++/ObjC), dotnet-resource-leak (C#/.Net), racerd (C/C++/ObjC, Java), liveness (C/C++/ObjC), inefficient-keyset-iterator (Java), fragment-retains-view (Java), biabduction (C/C++/ObjC, Java, C#/.Net)
+
+
+
+[17049][environment] CWD = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17049][environment] No .inferconfig file found
+[17049][environment] Project root = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17049][environment] INFER_ARGS =   @/tmp/args.tmp.c329cd
+[17049][environment] command line arguments:   /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/wrappers/clang++
+[17049][environment]                           @/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/infer-out/tmp/cdb_clang_args.tmp.01c96a.txt
+[17049][environment]                           -fsyntax-only
+[17049][environment] Available memory at startup: 7264 MB
+[17049][environment] Active checkers: self-in-block (C/C++/ObjC), starvation (C/C++/ObjC, Java), uninit (C/C++/ObjC), siof (C/C++/ObjC), dotnet-resource-leak (C#/.Net), racerd (C/C++/ObjC, Java), liveness (C/C++/ObjC), inefficient-keyset-iterator (Java), fragment-retains-view (Java), biabduction (C/C++/ObjC, Java, C#/.Net)
+[17052][environment] CWD = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17052][environment] No .inferconfig file found
+[17052][environment] Project root = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17052][environment] INFER_ARGS =   @/tmp/args.tmp.afa8b2
+[17052][environment] command line arguments:   /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/wrappers/clang++
+[17052][environment]                           @/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/infer-out/tmp/cdb_clang_args.tmp.84da31.txt
+[17052][environment]                           -fsyntax-only
+[17052][environment] Available memory at startup: 7263 MB
+[17052][environment] Active checkers: self-in-block (C/C++/ObjC), starvation (C/C++/ObjC, Java), uninit (C/C++/ObjC), siof (C/C++/ObjC), dotnet-resource-leak (C#/.Net), racerd (C/C++/ObjC, Java), liveness (C/C++/ObjC), inefficient-keyset-iterator (Java), fragment-retains-view (Java), biabduction (C/C++/ObjC, Java, C#/.Net)
+
+[17048][environment] CWD = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17048][environment] No .inferconfig file found
+[17048][environment] Project root = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17048][environment] INFER_ARGS =   @/tmp/args.tmp.69000c
+[17048][environment] command line arguments:   /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/wrappers/clang++
+[17048][environment]                           @/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/infer-out/tmp/cdb_clang_args.tmp.4c7ade.txt
+[17048][environment]                           -fsyntax-only
+[17048][environment] Available memory at startup: 7263 MB
+[17048][environment] Active checkers: self-in-block (C/C++/ObjC), starvation (C/C++/ObjC, Java), uninit (C/C++/ObjC), siof (C/C++/ObjC), dotnet-resource-leak (C#/.Net), racerd (C/C++/ObjC, Java), liveness (C/C++/ObjC), inefficient-keyset-iterator (Java), fragment-retains-view (Java), biabduction (C/C++/ObjC, Java, C#/.Net)
+
+[17050][environment] CWD = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17050][environment] No .inferconfig file found
+[17050][environment] Project root = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17050][environment] INFER_ARGS =   @/tmp/args.tmp.a21c93
+[17050][environment] command line arguments:   /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/wrappers/clang++
+[17050][environment]                           @/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/infer-out/tmp/cdb_clang_args.tmp.d32311.txt
+[17050][environment]                           -fsyntax-only
+[17050][environment] Available memory at startup: 7258 MB
+[17050][environment] Active checkers: self-in-block (C/C++/ObjC), starvation (C/C++/ObjC, Java), uninit (C/C++/ObjC), siof (C/C++/ObjC), dotnet-resource-leak (C#/.Net), racerd (C/C++/ObjC, Java), liveness (C/C++/ObjC), inefficient-keyset-iterator (Java), fragment-retains-view (Java), biabduction (C/C++/ObjC, Java, C#/.Net)
+[17051][environment] CWD = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17051][environment] No .inferconfig file found
+[17051][environment] Project root = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17051][environment] INFER_ARGS =   @/tmp/args.tmp.9bf3aa
+[17051][environment] command line arguments:   /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/wrappers/clang++
+[17051][environment]                           @/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/infer-out/tmp/cdb_clang_args.tmp.33cb10.txt
+[17051][environment]                           -fsyntax-only
+[17051][environment] Available memory at startup: 7250 MB
+[17051][environment] Active checkers: self-in-block (C/C++/ObjC), starvation (C/C++/ObjC, Java), uninit (C/C++/ObjC), siof (C/C++/ObjC), dotnet-resource-leak (C#/.Net), racerd (C/C++/ObjC, Java), liveness (C/C++/ObjC), inefficient-keyset-iterator (Java), fragment-retains-view (Java), biabduction (C/C++/ObjC, Java, C#/.Net)
+[17052][      debug] 
+[17052][      debug] *** Beginning capture of file /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test11.cpp ***
+[17052][      debug] Loading the following linters files: /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/linter_rules/linters.al
+[17052][      debug] Elapsed: 11.581ms.
+[17052][      debug] GC stats for capture:
+[17052][      debug]   minor_words: 221619
+[17052][      debug]   promoted_words: 0
+[17052][      debug]   major_words: 9218
+[17052][      debug]   minor_collections: 0
+[17052][      debug]   major_collections: 0
+[17052][      debug]   compactions: 0
+[17052][      debug]   top_heap_words: 372736
+[17052][      debug]   
+[17052][      debug] GC stats for main_process_full:
+[17052][      debug]   minor_words: 1.60255e+06
+[17052][      debug]   promoted_words: 318664
+[17052][      debug]   major_words: 348534
+[17052][      debug]   minor_collections: 7
+[17052][      debug]   major_collections: 2
+[17052][      debug]   compactions: 1
+[17052][      debug]   top_heap_words: 372736
+[17052][      debug]   
+[17052][environment] Scheduler: file
+[17052][environment] Cores used: 6
+[17052][environment] [17047][      debug] 
+[17047][      debug] *** Beginning capture of file /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test1.cpp ***
+[17047][      debug] Loading the following linters files: /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/linter_rules/linters.al
+[17047][      debug] Elapsed: 14.49ms.
+[17047][      debug] GC stats for capture:
+[17047][      debug]   minor_words: 246751
+[17047][      debug]   promoted_words: 0
+[17047][      debug]   major_words: 9218
+[17047][      debug]   minor_collections: 0
+[17047][      debug]   major_collections: 0
+[17047][      debug]   compactions: 0
+[17047][      debug]   top_heap_words: 372736
+[17047][      debug]   
+[17047][      debug] GC stats for main_process_full:
+[17047][      debug]   minor_words: 1.62768e+06
+[17047][      debug]   promoted_words: 318664
+[17047][      debug]   major_words: 348534
+[17047][      debug]   minor_collections: 7
+[17047][      debug]   major_collections: 2
+[17047][      debug]   compactions: 1
+[17047][      debug]   top_heap_words: 372736
+[17047][      debug]   
+[17050][      debug] 
+[17050][      debug] *** Beginning capture of file /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test3.cpp ***
+[17050][      debug] Loading the following linters files: /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/linter_rules/linters.al
+[17050][      debug] Elapsed: 11.99ms.
+[17050][      debug] GC stats for capture:
+[17050][      debug]   minor_words: 265255
+[17050][      debug]   promoted_words: 0
+[17050][      debug]   major_words: 9218
+[17050][      debug]   minor_collections: 0
+[17050][      debug]   major_collections: 0
+[17050][      debug]   compactions: 0
+[17050][      debug]   top_heap_words: 372736
+[17050][      debug]   
+[17047][environment] Scheduler: file
+[17047][environment] Cores used: 6
+[17047][environment] [17050][      debug] GC stats for main_process_full:
+[17050][      debug]   minor_words: 1.64619e+06
+[17050][      debug]   promoted_words: 318664
+[17050][      debug]   major_words: 348534
+[17050][      debug]   minor_collections: 7
+[17050][      debug]   major_collections: 2
+[17050][      debug]   compactions: 1
+[17050][      debug]   top_heap_words: 372736
+[17050][      debug]   
+[17050][environment] Scheduler: file
+[17050][environment] Cores used: 6
+[17050][environment] [17049][      debug] 
+[17049][      debug] *** Beginning capture of file /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test2.cpp ***
+[17049][      debug] Loading the following linters files: /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/linter_rules/linters.al
+[17049][      debug] Elapsed: 29.401ms.
+[17049][      debug] GC stats for capture:
+[17049][      debug]   minor_words: 299995
+[17049][      debug]   promoted_words: 0
+[17049][      debug]   major_words: 9218
+[17049][      debug]   minor_collections: 0
+[17049][      debug]   major_collections: 0
+[17049][      debug]   compactions: 0
+[17049][      debug]   top_heap_words: 372736
+[17049][      debug]   
+[17049][      debug] GC stats for main_process_full:
+[17049][      debug]   minor_words: 1.68093e+06
+[17049][      debug]   promoted_words: 318664
+[17049][      debug]   major_words: 348534
+[17049][      debug]   minor_collections: 7
+[17049][      debug]   major_collections: 2
+[17049][      debug]   compactions: 1
+[17049][      debug]   top_heap_words: 372736
+[17049][      debug]   
+[17049][environment] Scheduler: file
+[17049][environment] Cores used: 6
+[17049][environment] [17048][      debug] 
+[17048][      debug] *** Beginning capture of file /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test10.cpp ***
+[17048][      debug] Loading the following linters files: /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/linter_rules/linters.al
+[17048][      debug] Elapsed: 40.92ms.
+[17048][      debug] GC stats for capture:
+[17048][      debug]   minor_words: 1.60512e+06
+[17048][      debug]   promoted_words: 102905
+[17048][      debug]   major_words: 114685
+[17048][      debug]   minor_collections: 2
+[17048][      debug]   major_collections: 1
+[17048][      debug]   compactions: 0
+[17048][      debug]   top_heap_words: 434176
+[17048][      debug]   
+[17048][      debug] GC stats for main_process_full:
+[17048][      debug]   minor_words: 2.98606e+06
+[17048][      debug]   promoted_words: 421569
+[17048][      debug]   major_words: 454001
+[17048][      debug]   minor_collections: 9
+[17048][      debug]   major_collections: 3
+[17048][      debug]   compactions: 1
+[17048][      debug]   top_heap_words: 434176
+[17048][      debug]   
+[17048][environment] Scheduler: file
+[17048][environment] Cores used: 6
+[17048][environment] [17051][      debug] 
+[17051][      debug] *** Beginning capture of file /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test12.cpp ***
+[17051][      debug] Loading the following linters files: /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/linter_rules/linters.al
+[17051][      debug] Elapsed: 28.896ms.
+[17051][      debug] 
+[17051][ extern err] Error: the following clang command did not run successfully:
+[17051][ extern err]     /opt/infer-linux64-v1.1.0/lib/infer/facebook-clang-plugins/clang/install/bin/clang-11
+[17051][ extern err]     @/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/infer-out/tmp/clang_command_.tmp.d7e4bb.txt
+[17051][ extern err]   ++Contents of '/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/infer-out/tmp/clang_command_.tmp.d7e4bb.txt':
+[17051][ extern err]     "-cc1" "-load"
+[17051][ extern err]     "/opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../../facebook-clang-plugins/libtooling/build/FacebookClangPlugin.dylib"
+[17051][ extern err]     "-add-plugin" "BiniouASTExporter" "-plugin-arg-BiniouASTExporter" "-"
+[17051][ extern err]     "-plugin-arg-BiniouASTExporter" "PREPEND_CURRENT_DIR=1"
+[17051][ extern err]     "-plugin-arg-BiniouASTExporter" "MAX_STRING_SIZE=65535" "-cc1" "-triple"
+[17051][ extern err]     "x86_64-unknown-linux-gnu" "-fsyntax-only" "-disable-free"
+[17051][ extern err]     "-disable-llvm-verifier" "-discard-value-names" "-main-file-name"
+[17051][ extern err]     "test12.cpp" "-mrelocation-model" "static" "-mframe-pointer=all"
+[17051][ extern err]     "-fmath-errno" "-fno-rounding-math" "-mconstructor-aliases"
+[17051][ extern err]     "-munwind-tables" "-target-cpu" "x86-64" "-fno-split-dwarf-inlining"
+[17051][ extern err]     "-debugger-tuning=gdb" "-resource-dir"
+[17051][ extern err]     "/opt/infer-linux64-v1.1.0/lib/infer/facebook-clang-plugins/clang/install/lib/clang/11.1.0"
+[17051][ extern err]     "-include"
+[17051][ extern err]     "/opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/clang_wrappers/global_defines.h"
+[17051][ extern err]     "-internal-isystem"
+[17051][ extern err]     "/usr/lib/gcc/x86_64-linux-gnu/14/../../../../include/c++/14"
+[17051][ extern err]     "-internal-isystem"
+[17051][ extern err]     "/usr/lib/gcc/x86_64-linux-gnu/14/../../../../include/x86_64-linux-gnu/c++/14"
+[17051][ extern err]     "-internal-isystem"
+[17051][ extern err]     "/usr/lib/gcc/x86_64-linux-gnu/14/../../../../include/x86_64-linux-gnu/c++/14"
+[17051][ extern err]     "-internal-isystem"
+[17051][ extern err]     "/usr/lib/gcc/x86_64-linux-gnu/14/../../../../include/c++/14/backward"
+[17051][ extern err]     "-internal-isystem" "/usr/local/include" "-internal-isystem"
+[17051][ extern err]     "/opt/infer-linux64-v1.1.0/lib/infer/facebook-clang-plugins/clang/install/lib/clang/11.1.0/include"
+[17051][ extern err]     "-internal-externc-isystem" "/usr/include/x86_64-linux-gnu"
+[17051][ extern err]     "-internal-externc-isystem" "/include" "-internal-externc-isystem"
+[17051][ extern err]     "/usr/include" "-Wno-ignored-optimization-argument" "-Wno-everything"
+[17051][ extern err]     "-std=gnu++17" "-fdeprecated-macro" "-fdebug-compilation-dir"
+[17051][ extern err]     "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build"
+[17051][ extern err]     "-ferror-limit" "19" "-fgnuc-version=4.2.1" "-fcxx-exceptions"
+[17051][ extern err]     "-fexceptions" "-x" "c++"
+[17051][ extern err]     "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test12.cpp"
+[17051][ extern err]     "-O0" "-include"
+[17051][ extern err]     "/opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/clang_wrappers/global_defines.h"
+[17051][ extern err]     "-Wno-everything"
+[17051][ extern err]   
+[17051][ extern err] 
+[17051][environment] Scheduler: file
+[17051][environment] Cores used: 6
+[17051][environment] 
+[17044][ extern err] Error running compilation for '/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test12.cpp': 
+  /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/wrappers/clang++
+  @/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/infer-out/tmp/cdb_clang_args.tmp.33cb10.txt
+  -fsyntax-only  ++Contents of '/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/infer-out/tmp/cdb_clang_args.tmp.33cb10.txt':
+                      -std=gnu++17 -o CMakeFiles/test12.dir/test12.cpp.o -c "/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test12.cpp"
+                 
+:
+exited with code 1
+
+[17044][ extern err] Raised at Stdlib__string.index_rec in file "string.ml", line 115, characters 19-34
+Called from Stdlib__string.index_rec in file "string.ml" (inlined), line 116, characters 36-61
+Called from Stdlib__string.contains_from in file "string.ml" (inlined), line 179, characters 15-34
+Called from Stdlib__string.contains in file "string.ml", line 182, characters 19-38
+
+[17077][environment] CWD = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17077][environment] No .inferconfig file found
+[17077][environment] Project root = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17077][environment] INFER_ARGS =   @/tmp/args.tmp.adb2cd
+[17077][environment] command line arguments:   /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/wrappers/clang++
+[17077][environment]                           @/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/infer-out/tmp/cdb_clang_args.tmp.4077fe.txt
+[17077][environment]                           -fsyntax-only
+[17077][environment] Available memory at startup: 7215 MB
+[17077][environment] Active checkers: self-in-block (C/C++/ObjC), starvation (C/C++/ObjC, Java), uninit (C/C++/ObjC), siof (C/C++/ObjC), dotnet-resource-leak (C#/.Net), racerd (C/C++/ObjC, Java), liveness (C/C++/ObjC), inefficient-keyset-iterator (Java), fragment-retains-view (Java), biabduction (C/C++/ObjC, Java, C#/.Net)
+
+[17075][environment] CWD = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17075][environment] No .inferconfig file found
+[17075][environment] Project root = /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build
+[17075][environment] INFER_ARGS =   @/tmp/args.tmp.db5b12
+[17075][environment] command line arguments:   /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/wrappers/clang++
+[17075][environment]                           @/home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/build/infer-out/tmp/cdb_clang_args.tmp.531cec.txt
+[17075][environment]                           -fsyntax-only
+[17075][environment] Available memory at startup: 7215 MB
+[17075][environment] Active checkers: self-in-block (C/C++/ObjC), starvation (C/C++/ObjC, Java), uninit (C/C++/ObjC), siof (C/C++/ObjC), dotnet-resource-leak (C#/.Net), racerd (C/C++/ObjC, Java), liveness (C/C++/ObjC), inefficient-keyset-iterator (Java), fragment-retains-view (Java), biabduction (C/C++/ObjC, Java, C#/.Net)
+
+[17039][ intern err] Subprocess 3: see backtrace above
+[17039][ intern err] Raised at Core__Core_unix.improve in file "src/core_unix.ml" (inlined), line 46, characters 4-43
+Called from Core__Core_unix.wait_gen in file "src/core_unix.ml" (inlined), line 942, characters 4-246
+Called from Core__Core_unix.wait in file "src/core_unix.ml" (inlined), line 971, characters 2-34
+Called from IBase__ProcessPool.killall.(fun) in file "src/base/ProcessPool.ml", line 185, characters 10-30
+
+[17040][      debug] Sqlite write daemon: terminating
+[17077][      debug] 
+[17077][      debug] *** Beginning capture of file /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test5.cpp ***
+[17077][      debug] Loading the following linters files: /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/linter_rules/linters.al
+[17077][      debug] 
+[17077][environment] Scheduler: file
+[17077][environment] Cores used: 6
+[17077][environment] [17075][      debug] 
+[17075][      debug] *** Beginning capture of file /home/fer/Desktop/BackUp TFM/AnalyzerExecution/bateriaTest/test4.cpp ***
+[17075][      debug] Loading the following linters files: /opt/infer-linux64-v1.1.0/lib/infer/infer/bin/../lib/linter_rules/linters.al
+[17075][      debug] 
+[17075][environment] Scheduler: file
+[17075][environment] Cores used: 6
+[17075][environment] 
